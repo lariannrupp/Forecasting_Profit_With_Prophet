@@ -67,7 +67,9 @@ The near term forecast for Mercado Libre sales, based off Google search traffic
 
 ### Step 5: Forecast revenue by using time series models
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/95719899/162643533-c2ed5d25-a94c-4147-abf8-6e5274446abd.png">
-![Screenshot 2022-04-10 165920](https://user-images.githubusercontent.com/95719899/162643559-28f833ac-3a81-475a-96b7-9992e807ef90.jpg)
+
+![Screenshot 2022-04-10 165920](https://user-images.githubusercontent.com/95719899/162643599-ef858e90-d26d-4e7d-8a1a-882a88709e92.jpg)
+
 
 
 
